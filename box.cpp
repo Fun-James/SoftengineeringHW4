@@ -1,6 +1,6 @@
 #include "box.h"
 #include "ui_box.h"
-//在 GitHub web 修改B2
+//在 GitHub web 修改B2，现在在本地修改C4
 Box::Box(QWidget *parent)
     : QWidget(parent)
     , ui(new Ui::Box)

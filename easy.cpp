@@ -10,6 +10,7 @@ Easy::Easy(QWidget *parent)
     timer = new QTimer(this);
     connect(timer, &QTimer::timeout, this, &Easy::onTimerTimeout);
 
+    //C4
     timeLabel = new QLabel("00:00", this);
     timeLabel->move(800, 620);  // 临时设置到右上角，你可能需要根据你的布局调整位置
     // 设置字体和加粗

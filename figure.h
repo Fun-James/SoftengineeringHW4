@@ -12,7 +12,7 @@
 namespace Ui {
 class Figure;
 }
-
+//C4
 class Figure : public QWidget
 {
     Q_OBJECT

@@ -10,7 +10,7 @@ Figure::Figure(QWidget *parent)
     ui->bubble->hide();
     ui->numberLabel->hide();
 }
-
+//C4
 Figure::~Figure()
 {
     delete ui;
