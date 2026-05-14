@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/box">
+        <file>img/boxmid.png</file>
+        <file>img/boxopened.png</file>
+        <file>img/boxclosed.png</file>
+        <file>img/图片1.png</file>
+        <file>img/bird.png</file>
+        <file>img/forest.png</file>
+        <file>img/colorful.png</file>
+        <file>img/light_colorful.png</file>
+    </qresource>
+</RCC>
