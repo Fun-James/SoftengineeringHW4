@@ -1,6 +1,6 @@
 #include "easy.h"
 #include "ui_easy.h"
-
+//在 GitHub Web 修改
 Easy::Easy(QWidget *parent)
     : QMainWindow(parent)
     , ui(new Ui::Easy)
