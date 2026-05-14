@@ -15,7 +15,7 @@ Figure::~Figure()
 {
     delete ui;
 }
-
+//B3
 void Figure::enterEvent(QEnterEvent *event)
 {
     ui->bubble->show();

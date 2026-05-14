@@ -16,7 +16,7 @@ Box::Box(QWidget *parent)
     oeffect->setOpacity(0);
     ui->numberLabel->hide();
 
-
+//B3
     rnumber=QRandomGenerator::global()->bounded(90000000) + 10000000;
 
     // 将int转换为QString并设置到label上
